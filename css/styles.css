@@ -1,0 +1,19 @@
+body{
+    background: beige; 
+    text-align: center
+}
+h1{
+    text-align: center;
+     background: #000; 
+     color: beige
+}
+.kniga{
+    width: 300px;
+     margin: 0 auto
+}
+div > h2{
+    text-decoration: underline
+}
+.border{
+    border-top: 5px dotted #000
+}
