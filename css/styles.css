@@ -1,14 +1,21 @@
-body{
+@import url("reset.css");
+.container{
+    max-width: 1200px; 
+    margin: 0 auto;
     background: beige; 
     text-align: center
 }
 h1{
     text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
      background: #000; 
      color: beige
+     
 }
 .kniga{
     width: 300px;
+    padding: 20px 0;
      margin: 0 auto
 }
 div > h2{
